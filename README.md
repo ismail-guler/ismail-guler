@@ -1,4 +1,6 @@
 ## Hi there 👋
+🔭 I’m currently working on game development in roblox 
+🌱 I’m currently learning about neural networks and genetic algorithms
 
 <!--
 **ismail-guler/ismail-guler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
