@@ -1,5 +1,4 @@
 ## Hi there 👋
-🔭 I’m currently working on game development in roblox 
 🌱 I’m currently learning about neural networks and genetic algorithms
 
 <!--
